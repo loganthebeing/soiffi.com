@@ -1,2 +1,2 @@
 # soiffi
-A Knowledge Garden
+The Maker's Open Knowledge Foundation
